@@ -19,8 +19,8 @@ Aqui compartilho parte da minha jornada como **Analista de Dados**, desenvolvend
 
 | 🏷️ Nome do Projeto  | 🔗 Link do Projeto    | 💻 Ferramenta    | 📂 Fonte de Dados  | 📝 Observação  | 
 | ------------        | ------------        | ------------ | ------------    |------------ |
-| **Egresso Acadêmico 🎓** | [Egresso Acadêmico](https://github.com/asergioscosta/portfolio-dados/tree/main/Egressos_Graduacao) | Power BI | [dados.gov.br](https://dados.gov.br/dados/conjuntos-dados/egressos-da-graduao-ufra) | Dashboard com análise de dados de egressos da graduação da UFRA, visualizando indicadores de formação, inserção profissional e trajetórias acadêmicas. Todas as informações são reais e públicas. |
-
+| **Egresso Acadêmico 🎓** | [Egresso Acadêmico](https://github.com/asergioscosta/portfolio-dados/tree/main/power_bi/Egressos_Graduacao) | Power BI | [dados.gov.br](https://dados.gov.br/dados/conjuntos-dados/egressos-da-graduao-ufra) | Dashboard com análise de dados de egressos da graduação da UFRA, visualizando indicadores de formação, inserção profissional e trajetórias acadêmicas. Todas as informações são reais e públicas. |
+| **Violência Doméstica 🛡️** | [Violência Doméstica](https://github.com/asergioscosta/portfolio-dados/tree/main/power_bi/Violencia_Domestica) | Power BI | [dados.gov.br](https://dados.mg.gov.br/dataset/violencia-contra-mulher) | Dashboard que monitora os registros de Violência Doméstica contra a Mulher no estado de Minas Gerais. Apresenta a evolução temporal, distribuição geográfica e as principais naturezas de delito. |
 ---
 
 ## 🌟 Looker Studio
